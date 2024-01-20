@@ -49,7 +49,7 @@ Follow these simple steps to get started with the IRC Server Project:
 1. Clone the repository to your local machine:
 
 ```sh
-https://github.com/soofiane262/ft_irc.git
+https://github.com/AchrafMaghous/ft_irc.git
 ```
 
 2. Navigate to the project directory:
