@@ -1,10 +1,4 @@
-<center>
-
 # **FT_IRC - Internet Relay Chat**
-
-[![sel-mars's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl49y2gyb004909l3hwkwo9dg/project/3014927)](https://github.com/JaeSeoKim/badge42)
-
-</center>
 
 ---
 
